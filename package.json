@@ -1,0 +1,19 @@
+{
+  "name": "use-modified-tracker",
+  "version": "0.0.1-beta.1",
+  "description": "",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "spark-md5": "^3.0.2",
+    "vue": "3"
+  },
+  "peerDependencies": {
+    "spark-md5": "^3.0.2",
+    "vue": "3"
+  }
+}
